@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Queensley
-- 👀 I’m interested in mobile application development with flutter, native android apps with java. Data cleaning, analysis and visualization with python libraries
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on kaggle competetions and mobile app development with flutter and/or Java
+- 👀 I’m interested in Data Science, data analysis and data visualisation
+- 🌱 I’m currently learning NLP and Neural Networks
+- 💞️ I’m looking to collaborate on kaggle competetions and data science projects
 - 📫 How to reach me ebyqueensley1@gmail.com
 
 <!---
